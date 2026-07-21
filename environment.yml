@@ -1,0 +1,12 @@
+name: lianes_library
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - sqlalchemy
+  - mysql-connector-python
+  - python-dotenv
+  - jupyter
+  - ipykernel
